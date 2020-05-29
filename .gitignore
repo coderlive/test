@@ -1,0 +1,7 @@
+*.bin
+*.[oabin] 
+!faker.c
+*~
+/libs
+/libs/*
+/debug
